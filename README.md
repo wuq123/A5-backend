@@ -1,2 +1,1 @@
-# A5-backend
-# A5-backend
+采用spring boot作为后端框架，使用MySQL存储数据，后端利用正则表达式对星火大模型的回答进行关键词筛选，
